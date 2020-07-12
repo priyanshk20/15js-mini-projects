@@ -1,5 +1,5 @@
 # 15js-mini-projects
-15 Vanilla JavaScript Projects built to gain command over the language.
+15 Vanilla JavaScript Projects built to gain command over the language.(Currently Updating)
 
 Coded along #john-smilga
 
